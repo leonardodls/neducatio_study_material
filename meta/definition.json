@@ -841,16 +841,63 @@
         ],
         "description": "",
         "sub-type": "ext-etext",
-        "interaction-type": "practice",
         "ext-etext": {
           "url": "LO1"
         },
-        "attribs": {
-          "model": {
-            "total-score": "25",
-            "question-count": "5",
-            "instruction-text": "some text here"
-          }
+        "tags": []
+      },
+      "RE_0002": {
+        "learning-objectives": [
+          "Learning Objective 1"
+        ],
+        "description": "",
+        "sub-type": "ext-etext",
+        "ext-etext": {
+          "url": "LO2"
+        },
+        "tags": []
+      },
+      "RE_0003": {
+        "learning-objectives": [
+          "Learning Objective 1"
+        ],
+        "description": "",
+        "sub-type": "ext-etext",
+        "ext-etext": {
+          "url": "LO3"
+        },
+        "tags": []
+      },
+      "RE_0004": {
+        "learning-objectives": [
+          "Learning Objective 1"
+        ],
+        "description": "",
+        "sub-type": "ext-etext",
+        "ext-etext": {
+          "url": "LO4"
+        },
+        "tags": []
+      },
+      "RE_0005": {
+        "learning-objectives": [
+          "Learning Objective 1"
+        ],
+        "description": "",
+        "sub-type": "ext-etext",
+        "ext-etext": {
+          "url": "LO5"
+        },
+        "tags": []
+      },
+      "RE_0006": {
+        "learning-objectives": [
+          "Learning Objective 1"
+        ],
+        "description": "",
+        "sub-type": "ext-etext",
+        "ext-etext": {
+          "url": "LO6"
         },
         "tags": []
       },
@@ -870,6 +917,28 @@
             "question-count": "5",
             "instruction-text": "some text here"
           }
+        },
+        "tags": []
+      },
+      "RE_0008": {
+        "learning-objectives": [
+          "Learning Objective 1"
+        ],
+        "description": "",
+        "sub-type": "ext-etext",
+        "ext-etext": {
+          "url": "LO8"
+        },
+        "tags": []
+      },
+      "RE_0009": {
+        "learning-objectives": [
+          "Learning Objective 1"
+        ],
+        "description": "",
+        "sub-type": "ext-etext",
+        "ext-etext": {
+          "url": "LO9"
         },
         "tags": []
       }
