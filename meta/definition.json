@@ -1,0 +1,901 @@
+{
+  "definition": {
+    "learning-objectives": {
+      "Learning Objective 1": {
+        "learning-objectives": {}
+      }
+    },
+    "tags": {
+      "Reading": {
+        "tags": {}
+      },
+      "Videos": {
+        "tags": {}
+      },
+      "Practice": {
+        "tags": {}
+      },
+      "Test": {
+        "tags": {}
+      }
+    }
+  },
+  "items": {
+    "default": [
+      {
+        "item-type": "folder",
+        "name": "The fundamentals of effective business communication",
+        "sub-type": "default",
+        "item-code": "3234567891001",
+        "items": [
+          {
+            "item-type": "resource",
+            "resource": "RE_0001",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "The Ladder of Inference",
+            "tracking": true,
+            "item-code": "3234567891001/3234567892001"
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0002",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Using the Ladder of Inference: Advocacy and Inquiry",
+            "tracking": true,
+            "item-code": "3234567891001/3234567892002"
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0003",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Advocacy and Inquiry: typical situations",
+            "tracking": true,
+            "item-code": "3234567891001/3234567892003"
+          },
+          {
+            "item-type": "folder",
+            "name": "Improving the quality of Advocacy and Inquiry",
+            "sub-type": "default",
+            "item-code": "3234567891001/3234567892004",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0004",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "How to improve your Advocacy?",
+                "tracking": true,
+                "item-code": "3234567891001/3234567892004/3234567893001"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0005",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "How to improve your Inquiry?",
+                "tracking": true,
+                "item-code": "3234567891001/3234567892004/3234567893002"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0006",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Mutual learning",
+                "tracking": true,
+                "item-code": "3234567891001/3234567892004/3234567893003"
+              }
+            ]
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0007",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Excercise",
+            "tracking": true,
+            "item-code": "3234567891001/3234567892005"
+          },
+          {
+            "item-type": "folder",
+            "name": "The art of asking questions",
+            "sub-type": "default",
+            "item-code": "3234567891001/3234567892006",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0008",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "What are you trying to achieve?",
+                "tracking": true,
+                "item-code": "3234567891001/3234567892006/3234567893001"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0009",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Question types",
+                "tracking": true,
+                "item-code": "3234567891001/3234567892006/3234567893002"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "Active listening tips",
+            "sub-type": "default",
+            "item-code": "3234567891001/3234567892007",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "How to actively listen?",
+                "tracking": true,
+                "item-code": "3234567891001/3234567892007/3234567893001"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Reflect content",
+                "tracking": true,
+                "item-code": "3234567891001/3234567892007/3234567893002"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Reflect emotions",
+                "tracking": true,
+                "item-code": "3234567891001/3234567892007/3234567893003"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Summarise",
+                "tracking": true,
+                "item-code": "3234567891001/3234567892007/3234567893004"
+              }
+            ]
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "General communication styles",
+            "tracking": true,
+            "item-code": "3234567891001/3234567892008"
+          },
+          {
+            "item-type": "folder",
+            "name": "Look into the brain",
+            "sub-type": "default",
+            "item-code": "3234567891001/3234567892009",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Neuroleadership",
+                "tracking": true,
+                "item-code": "3234567891001/3234567892009/3234567893001"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Personality types",
+                "tracking": true,
+                "item-code": "3234567891001/3234567892009/3234567893002"
+              }
+            ]
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Exercise",
+            "tracking": true,
+            "item-code": "3234567891001/3234567892010"
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Friederike Fabritius on neuroleadership",
+            "tracking": true,
+            "item-code": "3234567891001/3234567892011"
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "How to work with different personality types?",
+            "tracking": true,
+            "item-code": "3234567891001/3234567892012"
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Summary – Questions to ask yourself",
+            "tracking": true,
+            "item-code": "3234567891001/3234567892013"
+          }
+        ],
+        "attribs": {
+          "thubsnail": "images/toc-thumbs/chapter1.png"
+        }
+      },
+      {
+        "item-type": "folder",
+        "name": "Communicating to persuade",
+        "sub-type": "default",
+        "item-code": "3234567891002",
+        "items": [
+          {
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Using communication skills to persuade",
+            "tracking": true,
+            "item-code": "3234567891002/3234567892001"
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Communicating to persuade a number of people",
+            "tracking": true,
+            "item-code": "3234567891002/3234567892002"
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Assessing your audience’s receptivity",
+            "tracking": true,
+            "item-code": "3234567891002/3234567892003"
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Adjusting persuasion strategy to the audience’s receptivity",
+            "tracking": true,
+            "item-code": "3234567891002/3234567892004"
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Exercise",
+            "tracking": true,
+            "item-code": "3234567891002/3234567892005"
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "What helps you to be even more persuasive?",
+            "tracking": true,
+            "item-code": "3234567891002/3234567892006"
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Summary – Questions to ask yourself",
+            "tracking": true,
+            "item-code": "3234567891002/3234567892007"
+          }
+        ],
+        "attribs": {
+          "thubsnail": "images/toc-thumbs/chapter2.png"
+        }
+      },
+      {
+        "item-type": "folder",
+        "name": "Lesson 3",
+        "sub-type": "default",
+        "item-code": "3234567891003",
+        "items": [
+          {
+            "item-type": "folder",
+            "name": "OBSERVA",
+            "sub-type": "default",
+            "item-code": "3234567891003/3234567892001",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Orgánulos celulares y sus funciones",
+                "tracking": true,
+                "item-code": "3234567891003/3234567892001/3234567893001"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "COMPRENDE",
+            "sub-type": "default",
+            "item-code": "3234567891003/3234567892002",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "La estructura del núcleo",
+                "tracking": true,
+                "item-code": "3234567891003/3234567892002/3234567893001"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "La especialización de las células",
+                "tracking": true,
+                "item-code": "3234567891003/3234567892002/3234567893002"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Los tejido",
+                "tracking": true,
+                "item-code": "3234567891003/3234567892002/3234567893003"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Los sistemas corporales (enlace externo)",
+                "tracking": true,
+                "item-code": "3234567891003/3234567892002/3234567893004"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "PRACTICA",
+            "sub-type": "default",
+            "item-code": "3234567891003/3234567892003",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "¿Cómo funcionan las células?",
+                "tracking": true,
+                "item-code": "3234567891003/3234567892003/3234567893001"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "INVESTIGA",
+            "sub-type": "default",
+            "item-code": "3234567891003/3234567892004",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Distingue entre tejido animal y vegetal",
+                "tracking": true,
+                "item-code": "3234567891003/3234567892004/3234567893001"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Del intestino delgado a la célula intestinal (enlace externo)",
+                "tracking": true,
+                "item-code": "3234567891003/3234567892004/3234567893002"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Modelo 3d de célula humana (enlace externo)",
+                "tracking": true,
+                "item-code": "3234567891003/3234567892004/3234567893003"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "APLICA TUS CONOCIMIENTOS",
+            "sub-type": "default",
+            "item-code": "3234567891003/3234567892005",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Identifica  los tejidos",
+                "tracking": true,
+                "item-code": "3234567891003/3234567892005/3234567893001"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "VALORA LO APRENDIDO",
+            "sub-type": "default",
+            "item-code": "3234567891003/3234567892006",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Autoevaluación",
+                "tracking": true,
+                "item-code": "3234567891003/3234567892006/3234567893001"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Resumen",
+                "tracking": true,
+                "item-code": "3234567891003/3234567892006/3234567893002"
+              }
+            ]
+          }
+        ],
+        "attribs": {
+          "thubsnail": "images/toc-thumbs/chapter3.png"
+        }
+      },
+      {
+        "item-type": "folder",
+        "name": "Lesson 4",
+        "sub-type": "default",
+        "item-code": "3234567891004",
+        "items": [
+          {
+            "item-type": "folder",
+            "name": "OBSERVA",
+            "sub-type": "default",
+            "item-code": "3234567891004/3234567892001",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Orgánulos celulares y sus funciones",
+                "tracking": true,
+                "item-code": "3234567891004/3234567892001/3234567893001"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "COMPRENDE",
+            "sub-type": "default",
+            "item-code": "3234567891004/3234567892002",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "La estructura del núcleo",
+                "tracking": true,
+                "item-code": "3234567891004/3234567892002/3234567893001"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "La especialización de las células",
+                "tracking": true,
+                "item-code": "3234567891004/3234567892002/3234567893002"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Los tejido",
+                "tracking": true,
+                "item-code": "3234567891004/3234567892002/3234567893003"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Los sistemas corporales (enlace externo)",
+                "tracking": true,
+                "item-code": "3234567891004/3234567892002/3234567893004"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "PRACTICA",
+            "sub-type": "default",
+            "item-code": "3234567891004/3234567892003",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "¿Cómo funcionan las células?",
+                "tracking": true,
+                "item-code": "3234567891004/3234567892003/3234567893001"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "INVESTIGA",
+            "sub-type": "default",
+            "item-code": "3234567891004/3234567892004",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Distingue entre tejido animal y vegetal",
+                "tracking": true,
+                "item-code": "3234567891004/3234567892004/3234567893001"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Del intestino delgado a la célula intestinal (enlace externo)",
+                "tracking": true,
+                "item-code": "3234567891004/3234567892004/3234567893002"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Modelo 3d de célula humana (enlace externo)",
+                "tracking": true,
+                "item-code": "3234567891004/3234567892004/3234567893003"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "APLICA TUS CONOCIMIENTOS",
+            "sub-type": "default",
+            "item-code": "3234567891004/3234567892005",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Identifica  los tejidos",
+                "tracking": true,
+                "item-code": "3234567891004/3234567892005/3234567893001"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "VALORA LO APRENDIDO",
+            "sub-type": "default",
+            "item-code": "3234567891004/3234567892006",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Autoevaluación",
+                "tracking": true,
+                "item-code": "3234567891004/3234567892006/3234567893001"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Resumen",
+                "tracking": true,
+                "item-code": "3234567891004/3234567892006/3234567893002"
+              }
+            ]
+          }
+        ],
+        "attribs": {
+          "thubsnail": "images/toc-thumbs/chapter4.png"
+        }
+      },
+      {
+        "item-type": "folder",
+        "name": "Lesson 5",
+        "sub-type": "default",
+        "item-code": "3234567891005",
+        "items": [
+          {
+            "item-type": "folder",
+            "name": "OBSERVA",
+            "sub-type": "default",
+            "item-code": "3234567891005/3234567892001",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Orgánulos celulares y sus funciones",
+                "tracking": true,
+                "item-code": "3234567891005/3234567892001/3234567893001"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "COMPRENDE",
+            "sub-type": "default",
+            "item-code": "3234567891005/3234567892002",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "La estructura del núcleo",
+                "tracking": true,
+                "item-code": "3234567891005/3234567892002/3234567893001"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "La especialización de las células",
+                "tracking": true,
+                "item-code": "3234567891005/3234567892002/3234567893002"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Los tejido",
+                "tracking": true,
+                "item-code": "3234567891005/3234567892002/3234567893003"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Los sistemas corporales (enlace externo)",
+                "tracking": true,
+                "item-code": "3234567891005/3234567892002/3234567893004"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "PRACTICA",
+            "sub-type": "default",
+            "item-code": "3234567891005/3234567892003",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "¿Cómo funcionan las células?",
+                "tracking": true,
+                "item-code": "3234567891005/3234567892003/3234567893001"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "INVESTIGA",
+            "sub-type": "default",
+            "item-code": "3234567891005/3234567892004",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Distingue entre tejido animal y vegetal",
+                "tracking": true,
+                "item-code": "3234567891005/3234567892004/3234567893001"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Del intestino delgado a la célula intestinal (enlace externo)",
+                "tracking": true,
+                "item-code": "3234567891005/3234567892004/3234567893002"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Modelo 3d de célula humana (enlace externo)",
+                "tracking": true,
+                "item-code": "3234567891005/3234567892004/3234567893003"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "APLICA TUS CONOCIMIENTOS",
+            "sub-type": "default",
+            "item-code": "3234567891005/3234567892005",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Identifica  los tejidos",
+                "tracking": true,
+                "item-code": "3234567891005/3234567892005/3234567893001"
+              }
+            ]
+          },
+          {
+            "item-type": "folder",
+            "name": "VALORA LO APRENDIDO",
+            "sub-type": "default",
+            "item-code": "3234567891005/3234567892006",
+            "items": [
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Autoevaluación",
+                "tracking": true,
+                "item-code": "3234567891005/3234567892006/3234567893001"
+              },
+              {
+                "item-type": "resource",
+                "resource": "RE_0000",
+                "pass-score": 0.7,
+                "contributes-to-completion": true,
+                "name": "Resumen",
+                "tracking": true,
+                "item-code": "3234567891005/3234567892006/3234567893002"
+              }
+            ]
+          }
+        ],
+        "attribs": {
+          "thubsnail": "images/toc-thumbs/chapter5.png"
+        }
+      }
+    ]
+  },
+  "resources": {
+    "generic": {
+      "RE_0000": {
+        "learning-objectives": [
+          "Learning Objective 1"
+        ],
+        "description": "",
+        "sub-type": "html",
+        "html": {
+          "url": ""
+        },
+        "tags": []
+      },
+      "RE_0001": {
+        "learning-objectives": [
+          "Learning Objective 1"
+        ],
+        "description": "",
+        "sub-type": "ext-etext",
+        "interaction-type": "practice",
+        "ext-etext": {
+          "url": "LO1"
+        },
+        "attribs": {
+          "model": {
+            "total-score": "25",
+            "question-count": "5",
+            "instruction-text": "some text here"
+          }
+        },
+        "tags": []
+      },
+      "RE_0007": {
+        "learning-objectives": [
+          "Learning Objective 1"
+        ],
+        "description": "",
+        "sub-type": "ext-cup-xapiscoreable",
+        "interaction-type": "practice",
+        "ext-cup-xapiscoreable": {
+          "url": "LO7"
+        },
+        "attribs": {
+          "model": {
+            "total-score": "25",
+            "question-count": "5",
+            "instruction-text": "some text here"
+          }
+        },
+        "tags": []
+      }
+    },
+    "test": {},
+    "ebook": {}
+  },
+  "meta": {
+    "schema": 1,
+    "title": "Effective Business Communication",
+    "code": "neducatio_study_material",
+    "author": "Compro",
+    "thumbnailsmall": "BookCover.svg",
+    "thumbnaillarge": "BookCover.svg",
+    "description": "",
+    "producttype": "courseware",
+    "model": {
+      "type": "engage-type-A",
+      "style": "theme1",
+      "subject": "Communication",
+      "course": "Business Communication",
+      "level": "Corporate",
+      "isbn": "978-84-675-7600-9",
+      "series": "",
+      "booktitle": "Effective Business Communication",
+      "booksubtitle": "SIE"
+    }
+  }
+}
