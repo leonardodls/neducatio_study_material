@@ -913,8 +913,8 @@
         },
         "attribs": {
           "model": {
-            "total-score": "25",
-            "question-count": "5",
+            "total-score": "10",
+            "question-count": "2",
             "instruction-text": "some text here"
           }
         },
@@ -957,7 +957,7 @@
     "producttype": "courseware",
     "model": {
       "type": "engage-type-A",
-      "style": "theme1",
+      "style": "theme3",
       "subject": "Communication",
       "course": "Business Communication",
       "level": "Corporate",
