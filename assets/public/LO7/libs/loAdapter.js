@@ -1,12 +1,24 @@
 var activityLaunchId;
 var isSubmitClicked = false;
 var activityResponse = {};
-var buttonClasses = {
+const buttonClasses = {
     submit: '.submit-lo-button',
     tryAgain: '.try-again-button',
     showAnswers: '.show-answer-button',
     hideAnswers: '.hide-answers-button'
 };
+const statements = {
+    started: 'started',
+    launched: 'launched',
+    closed: 'closed',
+    scored: 'scored'
+}
+
+const scoreStatus = {
+    correct: 'correct',
+    incorrect: 'incorrect',
+    partiallyCorrect: 'partiallyCorrect'
+}
 
 function initChannel() {
     return new Promise((resolve, reject) => {
@@ -54,9 +66,9 @@ var bindChannel = function (channel) {
             showAnswer();
         } else if (params.type == 'showUserResponse') {
             $.find(buttonClasses.hideAnswers)[0].click();
-            yourResponse();
+            userResponse();
         } else if (params.type === 'sendScores') {
-            submitCallback();
+            sendScores();
         } else if (params.type === 'close') {
             closeConnections();
         } else if (params.type === 'currentScreen') {
@@ -99,7 +111,7 @@ var generateStatement = function (verb, payload) {
             "id": activityLaunchId
         }
     };
-    if (verb === 'scored') {
+    if (verb === statements.scored) {
         statement.result = {
             score: payload
         }
@@ -182,24 +194,24 @@ var updateFeedbackStatus = function (visibility) {
     })
 };
 
-var checkAnswerCallback = (result) => {
+var checkAnswerCallback = (resultArray) => {
     let activityScoreObj = {
         min: 0,
-        max: result.length,
+        max: resultArray.length,
         raw: 0,
         scaled: 0
     }
-    result.forEach((res) => {
+    resultArray.forEach((res) => {
         activityScoreObj.raw += (res.points / res.pointsToGain);
     });
     activityScoreObj.scaled = activityScoreObj.raw / activityScoreObj.max;
     activityResponse.score = activityScoreObj;
 
-    activityResponse.status = 'partiallyCorrect';
+    activityResponse.status = scoreStatus.partiallyCorrect;
     if (activityScoreObj.scaled == 0) {
-        activityResponse.status = 'incorrect'
+        activityResponse.status = scoreStatus.incorrect;
     } else if (activityScoreObj.scaled == 1) {
-        activityResponse.status = 'correct';
+        activityResponse.status = scoreStatus.correct;
     }
 
     if (isSubmitClicked) {
@@ -208,13 +220,13 @@ var checkAnswerCallback = (result) => {
         checkAnswerVisibility(false);
         tryAgainVisibility(true);
         updateFeedbackStatus(true);
-        if (activityResponse.status != 'correct') {
+        if (activityResponse.status != scoreStatus.correct) {
             showCorrectAnswerVisibility(true);
         }
     }
 };
 
-var submitCallback = () => {
+var sendScores = () => {
     isSubmitClicked = true;
     if (activityResponse.score) {
         submit();
@@ -224,12 +236,11 @@ var submitCallback = () => {
 }
 
 var submit = () => {
-    generateStatement('scored', JSON.parse(JSON.stringify(activityResponse.score)));
+    generateStatement(statements.scored, JSON.parse(JSON.stringify(activityResponse.score)));
     showResult(activityResponse.score.scaled);
 }
 
 var tryAgainCallback = () => {
-    checkAnswerVisibility(false);
     tryAgainVisibility(false);
     checkAnswerVisibility(true);
     updateFeedbackStatus(false);
@@ -238,12 +249,12 @@ var tryAgainCallback = () => {
 
 var showAnswer = () => {
     showUserResponseVisibility(true);
-    checkAnswerVisibility(false);
+    showCorrectAnswerVisibility(false);
 }
 
-var yourResponse = () => {
+var userResponse = () => {
     showUserResponseVisibility(false);
-    checkAnswerVisibility(true);
+    showCorrectAnswerVisibility(true);
 };
 
 var checkAnswerVisibility = (visibility) => {
@@ -276,9 +287,9 @@ document.addEventListener('DOMContentLoaded', function () {
             bindChannel(channel);
             return getInitParameters()
                 .then(initParams => {
-                    activityLaunchId = initParams.id || "launchId1";
-                    generateStatement('started');
-                    generateStatement('launched');
+                    activityLaunchId = initParams.id;
+                    generateStatement(statements.started);
+                    generateStatement(statements.launched);
                     DOMReady();
                     checkAnswerVisibility(true);
                     previousButtonVisiblity(false);
