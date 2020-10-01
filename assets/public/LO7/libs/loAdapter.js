@@ -1,4 +1,4 @@
-var activityLaunchId;
+var loId;
 var isSubmitClicked = false;
 var activityResponse = {};
 const buttonClasses = {
@@ -10,7 +10,6 @@ const buttonClasses = {
 const statements = {
     started: 'started',
     launched: 'launched',
-    closed: 'closed',
     scored: 'scored'
 }
 
@@ -108,7 +107,7 @@ var generateStatement = function (verb, payload) {
             }
         },
         object: {
-            "id": activityLaunchId
+            "id": loId
         }
     };
     if (verb === statements.scored) {
@@ -287,7 +286,7 @@ document.addEventListener('DOMContentLoaded', function () {
             bindChannel(channel);
             return getInitParameters()
                 .then(initParams => {
-                    activityLaunchId = initParams.id;
+                    loId = initParams.id;
                     generateStatement(statements.started);
                     generateStatement(statements.launched);
                     DOMReady();
