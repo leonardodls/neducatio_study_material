@@ -321,503 +321,215 @@
       },
       {
         "item-type": "folder",
-        "name": "Lesson 3",
+        "name": "Understanding Your Audience",
         "sub-type": "default",
         "item-code": "3234567891003",
         "items": [
           {
-            "item-type": "folder",
-            "name": "OBSERVA",
-            "sub-type": "default",
-            "item-code": "3234567891003/3234567892001",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Orgánulos celulares y sus funciones",
-                "tracking": true,
-                "item-code": "3234567891003/3234567892001/3234567893001"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Self-Understanding Is Fundamental to Communication",
+            "tracking": true,
+            "item-code": "3234567891003/3234567892001"
           },
           {
-            "item-type": "folder",
-            "name": "COMPRENDE",
-            "sub-type": "default",
-            "item-code": "3234567891003/3234567892002",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "La estructura del núcleo",
-                "tracking": true,
-                "item-code": "3234567891003/3234567892002/3234567893001"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "La especialización de las células",
-                "tracking": true,
-                "item-code": "3234567891003/3234567892002/3234567893002"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Los tejido",
-                "tracking": true,
-                "item-code": "3234567891003/3234567892002/3234567893003"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Los sistemas corporales (enlace externo)",
-                "tracking": true,
-                "item-code": "3234567891003/3234567892002/3234567893004"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Perception",
+            "tracking": true,
+            "item-code": "3234567891003/3234567892002"
           },
           {
-            "item-type": "folder",
-            "name": "PRACTICA",
-            "sub-type": "default",
-            "item-code": "3234567891003/3234567892003",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "¿Cómo funcionan las células?",
-                "tracking": true,
-                "item-code": "3234567891003/3234567892003/3234567893001"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Differences in Perception",
+            "tracking": true,
+            "item-code": "3234567891003/3234567892003"
           },
           {
-            "item-type": "folder",
-            "name": "INVESTIGA",
-            "sub-type": "default",
-            "item-code": "3234567891003/3234567892004",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Distingue entre tejido animal y vegetal",
-                "tracking": true,
-                "item-code": "3234567891003/3234567892004/3234567893001"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Del intestino delgado a la célula intestinal (enlace externo)",
-                "tracking": true,
-                "item-code": "3234567891003/3234567892004/3234567893002"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Modelo 3d de célula humana (enlace externo)",
-                "tracking": true,
-                "item-code": "3234567891003/3234567892004/3234567893003"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Getting to Know Your Audience",
+            "tracking": true,
+            "item-code": "3234567891003/3234567892004"
           },
           {
-            "item-type": "folder",
-            "name": "APLICA TUS CONOCIMIENTOS",
-            "sub-type": "default",
-            "item-code": "3234567891003/3234567892005",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Identifica  los tejidos",
-                "tracking": true,
-                "item-code": "3234567891003/3234567892005/3234567893001"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Listening and Reading for Understanding",
+            "tracking": true,
+            "item-code": "3234567891003/3234567892005"
           },
           {
-            "item-type": "folder",
-            "name": "VALORA LO APRENDIDO",
-            "sub-type": "default",
-            "item-code": "3234567891003/3234567892006",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Autoevaluación",
-                "tracking": true,
-                "item-code": "3234567891003/3234567892006/3234567893001"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Resumen",
-                "tracking": true,
-                "item-code": "3234567891003/3234567892006/3234567893002"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Additional Resources",
+            "tracking": true,
+            "item-code": "3234567891003/3234567892006"
           }
         ],
         "attribs": {
-          "thubsnail": "images/toc-thumbs/chapter3.png"
+          "thubsnail": "images/toc-thumbs/chapter2.png"
         }
       },
       {
         "item-type": "folder",
-        "name": "Lesson 4",
+        "name": "Effective Business Writing",
         "sub-type": "default",
         "item-code": "3234567891004",
         "items": [
           {
-            "item-type": "folder",
-            "name": "OBSERVA",
-            "sub-type": "default",
-            "item-code": "3234567891004/3234567892001",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Orgánulos celulares y sus funciones",
-                "tracking": true,
-                "item-code": "3234567891004/3234567892001/3234567893001"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Oral versus Written Communication",
+            "tracking": true,
+            "item-code": "3234567891004/3234567892001"
           },
           {
-            "item-type": "folder",
-            "name": "COMPRENDE",
-            "sub-type": "default",
-            "item-code": "3234567891004/3234567892002",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "La estructura del núcleo",
-                "tracking": true,
-                "item-code": "3234567891004/3234567892002/3234567893001"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "La especialización de las células",
-                "tracking": true,
-                "item-code": "3234567891004/3234567892002/3234567893002"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Los tejido",
-                "tracking": true,
-                "item-code": "3234567891004/3234567892002/3234567893003"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Los sistemas corporales (enlace externo)",
-                "tracking": true,
-                "item-code": "3234567891004/3234567892002/3234567893004"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "How Is Writing Learned?",
+            "tracking": true,
+            "item-code": "3234567891004/3234567892002"
           },
           {
-            "item-type": "folder",
-            "name": "PRACTICA",
-            "sub-type": "default",
-            "item-code": "3234567891004/3234567892003",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "¿Cómo funcionan las células?",
-                "tracking": true,
-                "item-code": "3234567891004/3234567892003/3234567893001"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Good Writing",
+            "tracking": true,
+            "item-code": "3234567891004/3234567892003"
           },
           {
-            "item-type": "folder",
-            "name": "INVESTIGA",
-            "sub-type": "default",
-            "item-code": "3234567891004/3234567892004",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Distingue entre tejido animal y vegetal",
-                "tracking": true,
-                "item-code": "3234567891004/3234567892004/3234567893001"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Del intestino delgado a la célula intestinal (enlace externo)",
-                "tracking": true,
-                "item-code": "3234567891004/3234567892004/3234567893002"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Modelo 3d de célula humana (enlace externo)",
-                "tracking": true,
-                "item-code": "3234567891004/3234567892004/3234567893003"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Style in Written Communication",
+            "tracking": true,
+            "item-code": "3234567891004/3234567892004"
           },
           {
-            "item-type": "folder",
-            "name": "APLICA TUS CONOCIMIENTOS",
-            "sub-type": "default",
-            "item-code": "3234567891004/3234567892005",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Identifica  los tejidos",
-                "tracking": true,
-                "item-code": "3234567891004/3234567892005/3234567893001"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Principles of Written Communication",
+            "tracking": true,
+            "item-code": "3234567891004/3234567892005"
           },
           {
-            "item-type": "folder",
-            "name": "VALORA LO APRENDIDO",
-            "sub-type": "default",
-            "item-code": "3234567891004/3234567892006",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Autoevaluación",
-                "tracking": true,
-                "item-code": "3234567891004/3234567892006/3234567893001"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Resumen",
-                "tracking": true,
-                "item-code": "3234567891004/3234567892006/3234567893002"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Overcoming Barriers to Effective Written Communication",
+            "tracking": true,
+            "item-code": "3234567891004/3234567892006"
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Additional Resources",
+            "tracking": true,
+            "item-code": "3234567891004/3234567892007"
           }
         ],
         "attribs": {
-          "thubsnail": "images/toc-thumbs/chapter4.png"
+          "thubsnail": "images/toc-thumbs/chapter2.png"
         }
       },
       {
         "item-type": "folder",
-        "name": "Lesson 5",
+        "name": "Writing Preparation",
         "sub-type": "default",
         "item-code": "3234567891005",
         "items": [
           {
-            "item-type": "folder",
-            "name": "OBSERVA",
-            "sub-type": "default",
-            "item-code": "3234567891005/3234567892001",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Orgánulos celulares y sus funciones",
-                "tracking": true,
-                "item-code": "3234567891005/3234567892001/3234567893001"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Think, Then Write: Writing Preparation",
+            "tracking": true,
+            "item-code": "3234567891005/3234567892001"
           },
           {
-            "item-type": "folder",
-            "name": "COMPRENDE",
-            "sub-type": "default",
-            "item-code": "3234567891005/3234567892002",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "La estructura del núcleo",
-                "tracking": true,
-                "item-code": "3234567891005/3234567892002/3234567893001"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "La especialización de las células",
-                "tracking": true,
-                "item-code": "3234567891005/3234567892002/3234567893002"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Los tejido",
-                "tracking": true,
-                "item-code": "3234567891005/3234567892002/3234567893003"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Los sistemas corporales (enlace externo)",
-                "tracking": true,
-                "item-code": "3234567891005/3234567892002/3234567893004"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "A Planning Checklist for Business Messages",
+            "tracking": true,
+            "item-code": "3234567891005/3234567892002"
           },
           {
-            "item-type": "folder",
-            "name": "PRACTICA",
-            "sub-type": "default",
-            "item-code": "3234567891005/3234567892003",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "¿Cómo funcionan las células?",
-                "tracking": true,
-                "item-code": "3234567891005/3234567892003/3234567893001"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Research and Investigation: Getting Started",
+            "tracking": true,
+            "item-code": "3234567891005/3234567892003"
           },
           {
-            "item-type": "folder",
-            "name": "INVESTIGA",
-            "sub-type": "default",
-            "item-code": "3234567891005/3234567892004",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Distingue entre tejido animal y vegetal",
-                "tracking": true,
-                "item-code": "3234567891005/3234567892004/3234567893001"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Del intestino delgado a la célula intestinal (enlace externo)",
-                "tracking": true,
-                "item-code": "3234567891005/3234567892004/3234567893002"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Modelo 3d de célula humana (enlace externo)",
-                "tracking": true,
-                "item-code": "3234567891005/3234567892004/3234567893003"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Ethics, Plagiarism, and Reliable Sources",
+            "tracking": true,
+            "item-code": "3234567891005/3234567892004"
           },
           {
-            "item-type": "folder",
-            "name": "APLICA TUS CONOCIMIENTOS",
-            "sub-type": "default",
-            "item-code": "3234567891005/3234567892005",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Identifica  los tejidos",
-                "tracking": true,
-                "item-code": "3234567891005/3234567892005/3234567893001"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Completing Your Research and Investigation",
+            "tracking": true,
+            "item-code": "3234567891005/3234567892005"
           },
           {
-            "item-type": "folder",
-            "name": "VALORA LO APRENDIDO",
-            "sub-type": "default",
-            "item-code": "3234567891005/3234567892006",
-            "items": [
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Autoevaluación",
-                "tracking": true,
-                "item-code": "3234567891005/3234567892006/3234567893001"
-              },
-              {
-                "item-type": "resource",
-                "resource": "RE_0000",
-                "pass-score": 0.7,
-                "contributes-to-completion": true,
-                "name": "Resumen",
-                "tracking": true,
-                "item-code": "3234567891005/3234567892006/3234567893002"
-              }
-            ]
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Reading and Analyzing",
+            "tracking": true,
+            "item-code": "3234567891005/3234567892006"
+          },
+          {
+            "item-type": "resource",
+            "resource": "RE_0000",
+            "pass-score": 0.7,
+            "contributes-to-completion": true,
+            "name": "Additional Resources",
+            "tracking": true,
+            "item-code": "3234567891005/3234567892007"
           }
         ],
         "attribs": {
-          "thubsnail": "images/toc-thumbs/chapter5.png"
+          "thubsnail": "images/toc-thumbs/chapter2.png"
         }
       }
     ]
