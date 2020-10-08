@@ -72,10 +72,6 @@ var bindChannel = function (channel) {
     channel.bind('receiveMessageFromContainer', function (trans, params) {
         if (params.type === 'close') {
             closeConnections();
-        } else if (params.type === 'currentScreen') {
-            return 1;
-        } else if (params.type === 'totalScreens') {
-            return 1;
         } else if (params.hasOwnProperty('type')) {
             throw { error: "method_not_found", message: 'method not found' };
         } else {
