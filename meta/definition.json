@@ -660,11 +660,11 @@
   },
   "meta": {
     "schema": 1,
-    "title": "Effective Business Communication",
+    "title": "Business Communication for Success",
     "code": "neducatio_study_material",
     "author": "Compro",
-    "thumbnailsmall": "BookCover.svg",
-    "thumbnaillarge": "BookCover.svg",
+    "thumbnailsmall": "BookCover.png",
+    "thumbnaillarge": "BookCover.png",
     "description": "",
     "producttype": "courseware",
     "model": {
@@ -673,10 +673,10 @@
       "subject": "Communication",
       "course": "Business Communication",
       "level": "Corporate",
-      "isbn": "978-84-675-7600-9",
+      "isbn": "123-90-92576-02-5",
       "series": "",
-      "booktitle": "Effective Business Communication",
-      "booksubtitle": "SIE"
+      "booktitle": "Business Communication for Success",
+      "booksubtitle": "University of Minnesota"
     }
   }
 }
