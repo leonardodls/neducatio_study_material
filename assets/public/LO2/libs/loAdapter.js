@@ -325,12 +325,18 @@ function debounce(func, delay){
     }
 }
 
-function onResize() {
+function sendSizeEvent() {
     let container = $.find(container)[0];
     newDimensions({
         height: container.clientHeight,
         width: container.clientWidth
     });
+}
+
+function registerContainerResizeEvent() {
+    let container = $.find(container)[0];
+    let debounceEvent = debounce(sendSizeEvent, 50);
+    new ResizeObserver(debounceEvent).observe(container);
 }
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -344,13 +350,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     generateStatement(statements.launched);
                     DOMReady();
                     updateCss();
-                    let container = $.find(container)[0];
-                    let debounceEvent = debounce(onResize, 50);
-                    new ResizeObserver(debounceEvent).observe(container);
-                    newDimensions({
-                        height: container.clientHeight,
-                        width: container.clientWidth
-                    });
+                    sendSizeEvent();
+                    registerContainerResizeEvent();
                     checkAnswerVisibility(true);
                     previousButtonVisiblity(false);
                     nextButtonVisibility(false);
