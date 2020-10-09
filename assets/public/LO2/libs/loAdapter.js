@@ -1,5 +1,6 @@
 var loId;
 const containerId = '#container';
+
 function updateCss() {
     let wrapper = $.find('#wrapper')[0];
     wrapper.style.overflow = 'hidden';
@@ -46,36 +47,12 @@ var generateStatement = function (verb) {
     });
 };
 
-/* Function called when the activity is destroyed, it notifies the container once LO is properly closed and cleaning operations performed, if any */
-var closeConnections = function () {
-
-    channel.notify({
-        method: 'sendMessageToContainer',
-        params: {
-            type: 'terminated'
-        }
-    });
-};
-
 /* Function called on launch of Activity, to notify container with the ready event when the LO is loaded and ready for interaction */
 var DOMReady = function () {
     channel.notify({
         method: 'sendMessageToContainer',
         params: {
             type: 'ready'
-        }
-    });
-};
-
-/* Function to bind methods with the created jschannel instance.  */
-var bindChannel = function (channel) {
-    channel.bind('receiveMessageFromContainer', function (trans, params) {
-        if (params.type === 'close') {
-            closeConnections();
-        } else if (params.hasOwnProperty('type')) {
-            throw { error: "method_not_found", message: 'method not found' };
-        } else {
-            throw { error: "invalid_request_structure", message: 'invalid request structure' };
         }
     });
 };
@@ -139,7 +116,6 @@ function registerContainerResizeEvent() {
 document.addEventListener('DOMContentLoaded', function () {
     initChannel()
         .then(channel => {
-            bindChannel(channel);
             return getInitParameters()
                 .then(initParams => {
                     loId = initParams.id;
