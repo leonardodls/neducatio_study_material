@@ -119,11 +119,11 @@ document.addEventListener('DOMContentLoaded', function () {
             return getInitParameters()
                 .then(initParams => {
                     loId = initParams.id;
-                    generateStatement('launched');
                     DOMReady();
                     updateCss();
                     sendSizeEvent();
                     registerContainerResizeEvent();
+                    generateStatement('launched');
                 })
         });
 });
