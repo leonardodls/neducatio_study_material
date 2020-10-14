@@ -460,7 +460,7 @@
       },
       {
         "item-type": "folder",
-        "name": "Writing Preparation",
+        "name": "Developing Business Presentations",
         "sub-type": "default",
         "item-code": "3234567891005",
         "items": [
@@ -469,7 +469,7 @@
             "resource": "RE_0000",
             "pass-score": 0.7,
             "contributes-to-completion": true,
-            "name": "Think, Then Write: Writing Preparation",
+            "name": "Before You Choose a Topic",
             "tracking": true,
             "item-code": "3234567891005/3234567892001"
           },
@@ -478,7 +478,7 @@
             "resource": "RE_0000",
             "pass-score": 0.7,
             "contributes-to-completion": true,
-            "name": "A Planning Checklist for Business Messages",
+            "name": "Choosing a Topic",
             "tracking": true,
             "item-code": "3234567891005/3234567892002"
           },
@@ -487,7 +487,7 @@
             "resource": "RE_0000",
             "pass-score": 0.7,
             "contributes-to-completion": true,
-            "name": "Research and Investigation: Getting Started",
+            "name": "Finding Resources",
             "tracking": true,
             "item-code": "3234567891005/3234567892003"
           },
@@ -496,7 +496,7 @@
             "resource": "RE_0000",
             "pass-score": 0.7,
             "contributes-to-completion": true,
-            "name": "Ethics, Plagiarism, and Reliable Sources",
+            "name": "Myths and Realities of Public Speaking",
             "tracking": true,
             "item-code": "3234567891005/3234567892004"
           },
@@ -505,7 +505,7 @@
             "resource": "RE_0000",
             "pass-score": 0.7,
             "contributes-to-completion": true,
-            "name": "Completing Your Research and Investigation",
+            "name": "Overcoming Obstacles in Your Presentation",
             "tracking": true,
             "item-code": "3234567891005/3234567892005"
           },
@@ -514,18 +514,9 @@
             "resource": "RE_0000",
             "pass-score": 0.7,
             "contributes-to-completion": true,
-            "name": "Reading and Analyzing",
-            "tracking": true,
-            "item-code": "3234567891005/3234567892006"
-          },
-          {
-            "item-type": "resource",
-            "resource": "RE_0000",
-            "pass-score": 0.7,
-            "contributes-to-completion": true,
             "name": "Additional Resources",
             "tracking": true,
-            "item-code": "3234567891005/3234567892007"
+            "item-code": "3234567891005/3234567892006"
           }
         ],
         "attribs": {
