@@ -123,6 +123,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     updateCss();
                     sendSizeEvent();
                     registerContainerResizeEvent();
+                    generateStatement('started');
                     generateStatement('launched');
                 })
         });
