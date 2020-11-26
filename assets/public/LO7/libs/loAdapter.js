@@ -24,7 +24,7 @@ function initChannel() {
         channel = Channel.build({
             window: window.parent,
             origin: '*',
-            scope: 'cup-default',
+            scope: 'generic-default',
             onReady: function () {
                 resolve(channel);
             }
